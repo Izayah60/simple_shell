@@ -325,8 +325,6 @@ $
 - GitHub: [@Izayah60](https://github.com/Izayah60)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/isaiah-ikharona-4a1224232/)
 
-👤 **Felix Tejiri**
+👤 **Oghenetejiri Felix Origbo**
 
-- GitHub: [@benardgomashie](https://github.com/benardgomashie)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/benard-gomashie-7162b735/)
-- Twitter: [@JUSTICEMBLAY](https://twitter.com/BenardGomashie)
+- GitHub: [@FelixTejiri](https://github.com/FelixTejiri)
